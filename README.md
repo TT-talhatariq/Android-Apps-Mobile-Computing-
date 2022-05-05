@@ -13,7 +13,7 @@ These are four simple apps covering concepts of Layouts, Activites and Click Lis
 ## Screenshots
 Login Layout    |  Calculator
 :-------------------------:|:-------------------------:
-![Login img](Login/1.jpg)  |  ![about img](Screen%20Shots/about.jpg)
+![Login img](Login/1.png)  |  ![Calculator img](Calculator/1.png)
 
 Toast Game          |  News App
 :-------------------------:|:-------------------------:
