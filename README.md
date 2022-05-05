@@ -17,7 +17,7 @@ Login Layout    |  Calculator  |  Toast Game
 
 News App |  Activities Collab      |  Activities Collab
 :-------------------------:|:-------------------------:|:-------------------------:
-![News img](News%20Scroll%20App/1.png)  |  ![Activities img](Screen%20Shots/snake-moving.jpg) | ![Activities img](Toast%20Game/2.png) 
+![News img](News%20Scroll%20App/1.png)  |  ![Activities img](Activities%20Collaboration/1.png) | ![Activities img](Activities%20Collaboration/2.png) 
 
 
 
