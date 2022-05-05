@@ -11,17 +11,14 @@ These are four simple apps covering concepts of Layouts, Activites and Click Lis
 - First App (Hello World)
 
 ## Screenshots
-Login Layout    |  Calculator
-:-------------------------:|:-------------------------:
-![Login img](Login/1.png)  |  ![Calculator img](Calculator/1.png)
+Login Layout    |  Calculator  |  Toast Game
+:-------------------------:|:-------------------------:|:-------------------------:
+![Login img](Login/1.png)  |  ![Calculator img](Calculator/1.png) | ![Toast img](Toast%20Game/2.png) 
 
-Toast Game          |  News App
-:-------------------------:|:-------------------------:
-![Help img](Screen%20Shots/help.jpg)  |  ![snake moving img](Screen%20Shots/snake-moving.jpg)
+News App |  Activities Collab      |  Activities Collab
+:-------------------------:|:-------------------------:|:-------------------------:
+![News img](News%20Scroll%20App/1.png)  |  ![Activities img](Screen%20Shots/snake-moving.jpg) | ![Activities img](Toast%20Game/2.png) 
 
-Activities Collab         |  Activities Collab
-:-------------------------:|:-------------------------:
-![Help img](Screen%20Shots/help.jpg)  |  ![snake moving img](Screen%20Shots/snake-moving.jpg)
 
 
 ## Installation 🔌
